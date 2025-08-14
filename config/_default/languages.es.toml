@@ -2,7 +2,7 @@ disabled = false
 languageCode = "es"
 languageName = "Español"
 weight = 1
-title = "pqj"
+title = ""
 
 [params]
   displayName = "ES"
