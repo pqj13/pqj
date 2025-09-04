@@ -1,9 +1,12 @@
-/* Increase the default font size */
-html {
-  font-size: 14pt;
+/*a{
+	text-decoration: underline;
+}
+*/
+@font-face {
+    font-family: inter;
+    src: url('/fonts/inter.ttf');
 }
 
-
-a{
-	text-decoration: underline;
+html {
+    font-family: inter;
 }
