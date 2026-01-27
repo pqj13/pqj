@@ -9,8 +9,7 @@ description = 'Pablo Quintana Jabato. Abogado en Burgos.'
 
 Abogado en [Quintana Abogados](http://quintana-abogados.com)
 
-Profesor en la [UNED](https://www.uned.es/universidad/centros/burgos/tutores/listado-de-tutores.html) y en la [Universidad de Burgos](https://investigacion.ubu.es/investigadores/2089150/detalle)
-
+[Contacto](https://forms.office.com/pages/responsepage.aspx?id=iKC3ULEbqkSVvWV7lD2VCFBi57XWyDFPlwJA0NrXH45UMVlQNVVaV0NEMkxVUjY2VkQ3MlU2WlZPMS4u&route=shorturl)
 ---
 
 

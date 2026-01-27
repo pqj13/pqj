@@ -2,12 +2,18 @@
 	text-decoration: underline;
 }
 */
+
 @font-face {
     font-family: inter;
     src: url('/fonts/inter.ttf');
 }
 
+@font-face {
+    font-family: susemono;
+    src: url('/fonts/susemono.ttf');
+}
+
 html {
-    font-family: inter;
+    font-family: susemono;
 }
 
