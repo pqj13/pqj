@@ -5,7 +5,6 @@ title = 'Pablo Quintana Jabato - Abogado en Burgos'
 description = 'Pablo Quintana Jabato. Abogado en Burgos.'
 +++
 ## Pablo Quintana Jabato
- ``{{< icon "location-dot" >}} Burgos, España``
 
 Abogado en [Quintana Abogados](http://quintana-abogados.com)
 
